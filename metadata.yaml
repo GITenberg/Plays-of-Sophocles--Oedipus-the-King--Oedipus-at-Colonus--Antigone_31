@@ -1,0 +1,47 @@
+_repo: Plays-of-Sophocles--Oedipus-the-King--Oedipus-at-Colonus--Antigone_31
+_version: 0.0.1
+alternative_title: Oedipus Trilogy
+contributor:
+  translator:
+    agent_name: Storr, Francis
+    alias: Storr, F. (Francis)
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '5050'
+    url: http://www.gutenberg.org/2009/agents/5050
+creator:
+  author:
+    agent_name: Sophocles
+    alias: Σοφοκλής
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia: http://en.wikipedia.org/wiki/Sophocles
+description: Vivid, poetic language, the dramatic power and intensity, the subtleties
+  of meaning, and the explosive emotions of Sophocles' great triology are captured
+  in the Paul Roche translation. Here is an eloquent story of a noble family moving
+  toward catastrophe, dragged down by pride from wealth and power, cursed with incest.
+  suicide, and murder.
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Harvard Classics
+- Plays
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek drama (Tragedy) -- Translations into English'
+- !lcsh 'Oedipus (Greek mythological figure) -- Drama'
+- !lcc 'PA'
+- !lcsh 'Antigone (Mythological character) -- Drama'
+- !lcsh 'Tragedies'
+- GITenberg
+tableOfContents: Oedipus the King -- Oedipus at Colonus -- Antigone.
+title: 'Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone'
+url: http://www.gutenberg.org/ebooks/31
