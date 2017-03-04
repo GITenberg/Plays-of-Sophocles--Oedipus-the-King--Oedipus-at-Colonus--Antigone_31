@@ -1,5 +1,5 @@
 _repo: Plays-of-Sophocles--Oedipus-the-King--Oedipus-at-Colonus--Antigone_31
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Oedipus Trilogy
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '5050'
     url: http://www.gutenberg.org/2009/agents/5050
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sophocles
@@ -23,6 +26,8 @@ description: Vivid, poetic language, the dramatic power and intensity, the subtl
   in the Paul Roche translation. Here is an eloquent story of a noble family moving
   toward catastrophe, dragged down by pride from wealth and power, cursed with incest.
   suicide, and murder.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31#Plays-of-Sophocles--Oedipus-the-King--Oedipus-at-Colonus--Antigone
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Harvard Classics
